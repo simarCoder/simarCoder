@@ -11,7 +11,7 @@ I work on applications that process machine data, automate workflows, and manage
 - **Languages:** Python, JavaScript (basic)
 - **Backend:** Flask (basic), SQLite3
 - **Frontend:** HTML, CSS
-- **Frameworks & Tools:** PySide6, OpenCVXL
+- **Frameworks & Tools:** PySide6, openpyxl
 - **Concepts:** File Handling, Data Parsing, CRUD Systems, Basic OOP
 
 ---
@@ -19,18 +19,18 @@ I work on applications that process machine data, automate workflows, and manage
 ## 🚀 Projects
 
 ### 🧪 CBC Data Analyzer
-A desktop application that processes raw HL7 data from CBC machines.
+Processes raw HL7 data from CBC machines into structured medical reports.
 
 - Parses machine output into structured format
 - Displays data through GUI (PySide6)
 - Generates printable reports (PDF + print support)
 - Stores patient data using SQLite3
-- Supports export functionality
+- Exports structured reports to Excel using openpyxl.
 
 ---
 
 ### 👨‍💼 Employee Attendance System
-A local web-based application for managing employee data and payroll.
+Backend system for managing employee records, attendance, and payroll workflows.
 
 - Built using Flask with SQLite database
 - Multi-user login system (Admin + Users)
