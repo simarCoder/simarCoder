@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Simar 👋
 
-<!--
-**simarCoder/simarCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Python developer building real-world software systems.
 
-Here are some ideas to get you started:
+I work on applications that process machine data, automate workflows, and manage structured data using clean backend logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Tech Stack
+
+- **Languages:** Python, JavaScript (basic)
+- **Backend:** Flask (basic), SQLite3
+- **Frontend:** HTML, CSS
+- **Frameworks & Tools:** PySide6, OpenCVXL
+- **Concepts:** File Handling, Data Parsing, CRUD Systems, Basic OOP
+
+---
+
+## 🚀 Projects
+
+### 🧪 CBC Data Analyzer
+A desktop application that processes raw HL7 data from CBC machines.
+
+- Parses machine output into structured format
+- Displays data through GUI (PySide6)
+- Generates printable reports (PDF + print support)
+- Stores patient data using SQLite3
+- Supports export functionality
+
+---
+
+### 👨‍💼 Employee Attendance System
+A local web-based application for managing employee data and payroll.
+
+- Built using Flask with SQLite database
+- Multi-user login system (Admin + Users)
+- Tracks attendance with custom timings
+- Automatically calculates salary
+- Stores employee records and documents
+
+---
+
+## 📈 Current Focus
+
+- Strengthening backend development (Flask, APIs)
+- Improving OOP and system design
+- Writing cleaner, more scalable code
+
+---
+
+## 🎯 Goal
+
+To secure a backend development internship and grow into a strong software engineer by building real-world systems.
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/simarCoder
